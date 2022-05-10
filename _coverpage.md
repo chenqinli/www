@@ -1,2 +1,2 @@
 # 我的首页
-! [](BAIDU.png)
+! [](baidu.png)
